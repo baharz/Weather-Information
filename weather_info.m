@@ -1,6 +1,5 @@
+
 function  []= weather_info(t_start,t_end,url_address)
-
-
 rain=0;
 fog=0;
 tic
